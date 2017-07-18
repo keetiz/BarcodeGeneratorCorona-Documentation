@@ -1,4 +1,4 @@
-# BRIGHTNESS: Plugin API Docs
+# Barcode Generator : Plugin API Docs
 
 |                      | &nbsp;
 | -------------------- | ---------------------------------------------------------------
