@@ -42,7 +42,7 @@ settings =
 		["plugin.BarcodeGenerator"] =
 		{
 			-- required
-			publisherId = "com.keetiz.barcodegenerator",
+			publisherId = "com.keetiz",
 		},
 	},
 }
